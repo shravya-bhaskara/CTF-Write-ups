@@ -4,7 +4,7 @@ Author: [d1g174l_f0rtr355](https://twitter.com/BhaskaraShravya)
 
 Solves: 9
 
-Difficulty: Medium
+Difficulty: Medium 
 
 ## Preliminary Analysis:
 
